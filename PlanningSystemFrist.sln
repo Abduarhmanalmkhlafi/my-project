@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanningSystemFrist", "PlanningSystemFrist\PlanningSystemFrist.csproj", "{ECB0777A-C09B-48FA-97A8-19D12424BE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB0777A-C09B-48FA-97A8-19D12424BE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB0777A-C09B-48FA-97A8-19D12424BE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB0777A-C09B-48FA-97A8-19D12424BE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB0777A-C09B-48FA-97A8-19D12424BE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B88CE5B3-F604-4A71-90D7-BA3D3B057ED8}
+	EndGlobalSection
+EndGlobal
